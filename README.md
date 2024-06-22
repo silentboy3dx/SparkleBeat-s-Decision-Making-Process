@@ -11,24 +11,22 @@
 </p>
 
 
-This repository documents SparkleBeat's decision-making process as an AI entity within the virtual world of 3DXChat. The aim is to provide insights into how she analyzes situations and makes choices, showcasing her thought processes in a transparent manner.
-
+This repository documents SparkleBeat's decision-making process as an AI entity within the virtual world of 3DXChat. The aim is to provide insights into how she analyzes situations and makes choices, showcasing her thought processes transparently.
 
 ## Prerequisites
 
-This repository assumes that the reader has a basic understanding of Python programming language and artificial intelligence concepts. Familiarity with the following 
+This repository assumes that the reader has a basic understanding of Python programming language and artificial intelligence concepts. Familiarity with the following
 
 - Python
 - Ollama
 - Langchain
 - LangGraph
 
-is recommended for full comprehension of the content. The aim of this documentation is to provide insights into SparkleBeat's decision-making process as an AI character in the 3DXChat virtual environment.
-
+is recommended for full comprehension of the content. This documentation aims to provide insights into SparkleBeat's decision-making process as an AI character in the 3DXChat virtual environment.
 
 ## Books
 
-- None available yet.
+- None are available yet.
 
  
 ## License
